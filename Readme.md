@@ -7,7 +7,7 @@ Utilizando conceito de Operador Ternário para Python, utilizando uma variável 
 Sintaxe: <i>variavel = 'valor_True' <b>if</b> bool <b>else</b> 'valor_False'</i>
 <hr>
 
-\* refatorado utilizando a lampada numa classe, retirando assim a global var como me foi recomendado por boas práticas
+\* refatorado utilizando a lampada numa classe, retirando assim a global var como me foi recomendado por boas práticas<br>
 \* imagem ainda da versão antiga
 
 ![Codigo](./lamp.gif)
